@@ -1,0 +1,20 @@
+h1 {
+    background-color: skyblue;
+    font-size: 50px;
+    
+}
+#img1 {
+    height: 200px;
+    width: 200px;
+    border: sandybrown;
+}
+#img2 {
+    height: 200px;
+    width: 200px;
+}
+
+#img4 {
+    height: 200px;
+    width: 200px;
+    padding: 5% 20%;
+}
